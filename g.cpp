@@ -4,9 +4,6 @@
 #include<algorithm>
 using namespace std;
 
-//Ahmed Mohamed Abd El Rashied  20180028;
-//Moamen Eid Mahmoud   20180299;
-//Eslam Nasser Abd El Kader 20180047;
 int ar[4];
 static int adq = 0;
 static int counter1 = 0, counter2 = 0;
